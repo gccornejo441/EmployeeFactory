@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e8f4a9df-8f72-4b20-8c3d-ba1d984820c2" namespace="EmployeeData.Database" dataBaseShemaInfo="H4sIAAAAAAAEAOVaUXPaOBB+70z/A8PD9TpTgWxJtpVz6DSh7TB318s0aefeMrK8Ip4Ym1o2Se7Xn2wMwUASktIwLTwk1mq1u5+0u1oW+2+vR3FrApmO0uSwbXVw+23v5Qv/SGg4zdNMDGGQqLRluBJ9cK3Dw/ZFno8Put2rq6vOFemk2bBrY2x1//37r1N5ASPRnjNHDzOjKNG5SCS0jdZWyz8TQQy6VFmNZ5QFwozU+iRGcNiG0ThObwB0ez5vOE6yaCSymz/hZpntfHwJN+3WQH9Jom+FmcmzAhbXmtXHaVyMEt0gGrLOsygZ9qLQ79aPjVXd1WV+99aQRfI6BX7/aEpuTf+d3YyNdYMkJ3a7BhGFpeFGVm21GQxCSPIoX6B8KuK43J/DthKxNqR+0Aclijj/KuIScALX+UTEv7+63ZMoPNfw7dXBQQZDGQutX5tlR6UFteIkhyFk7VZ3A5NPq72Z2ayiTOfniXlut06j/wyF4fVmLuiTFyITMoesNTGbZ6T9zvDrp2g3WHan3Lh3FM8UW/gpms2qDVU3HEWL2Ah4UN/aY13rx4MkhGtYcdiKvBJhFe7zB8PszkC7DbVK0tpoW29nSa2t2szUh5PBBlbekRAeY6LfXd1h/0OaQTRMTLzrhRPyu1X6ux2/T6pxabrfrQfzyX6kS8KXcShy6FU+YPQ3iHPej0UUDsIeD6SwGAVEgQWI2iREgkmObJfYDGxLKi/wuzXzfHGNtJGo7ySbifIkppPV/i0MG2z3gXsswEWQVogFCMaRp2yFaCAE4i4oJFyCme0IJ3DpCsiFE30KzttUuAu83OPEDVAoQSLKMSAhwEFEMUII5Ux53rbxzpPv88MNROC4luMhzhyMKHMY8rB0EeFeIIPAocRW24ZbJ6vnhsqwlEwalNwTjoHKGRLEoog7yg6YEpwD2TbU6f3y/FjNkQopCDUB6wpEsaMQD01+CimVjNjAbdvdGOs6ap1cH1F/pkpFEs51MR7HN+ejVF621+zmBhd434A+i8pKZSr4nyyErCQ27+ywomxSEXxJLpP0KpnJ+wxDU+I3hf32rUjzP8qyY/r0RMHjHyB1kMNoG2IbdZG55nP9HaXtko2luPPjVOdNkaM0KauKJwg8S3MRPyjsvgqtybhhBVENS3W9VW+umavZ5ZKjjtv7a45pEri/5MD1B635M/tsteSYB9eDOWw9xkfi/G6s35mvp7G/L1jH+wG0zJD7gbRK2/sDtbpS9gNudeH95FC3U0fqVOVXIoMQJhCnY1OR3NvPXGH/xfqaj+9bPaIductu5F40I5uqx1k6zMRoZEixSIaFGD7TDjSc7AZEZqIGrk2wRFD+4vCs7dGnBOz+9R6xIq6NGZiv9SYdU0taSDjEQwwCjwGjHvbsn7736DDqYE4pAtvliLpKICGVi0BJ8+wJDAH/Ib3H3fTivEC6lEoXedSxEA0FQZxIhlxh2dzBLpfuD2k97gYtZw4LsQyQpZTxYKU85HkyRLbtCUOXnkV/lc6jh1UAjpTI9gIXUWphxKUFCAfEss3peg7feudxzV2yg2a6jUkAJoAtjypEmaWQyU4OIsQmYagwIyHbNvCV62sHnWbCuTlqisy5m/NmQiIhiMlgnIAdsMC4+ebnvUnVXI9vWfzylQQIT7JUVsT6avK/Tt9f6PVh8v56nIHWnb7IRWdi2x37TauePixHHdbBb1rHRZwXGRwmUOSZiN+0ToogjqS57s7SS0gOA88LLZfR0MUYKBd+d6ai0ndc/kYOujyAz8V8d/13oTENVHQ9vzJL0mmhGqTPMEonsMw4pS7zHgsNvROhpYjLR7NpJWG6N+uMMF8Uytoij3Zt3B12+B8hgcw42HE6GkGS69pLV8gN5j5oU4tA9iEyzrC0ojlXLetDDDm80zqVkcjNoc3WrJmoFsyqwCO4EJMozXr1CxMmxJZnXr7wu0vvxvT+B5ttDrdEIwAA" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="ConnectionString" createdInVersion="22.2.5.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="22.2.5.0" name="Database" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
+<dataBaseObjectModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="e8f4a9df-8f72-4b20-8c3d-ba1d984820c2" namespace="EmployeeData.Database" dataBaseShemaInfo="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" generateConnectionHelper="true" generateStoredProcedures="false" fieldNameCase="Unchanged" generateDefaultConstructors="false" useNameOf="true" connectionStringName="ConnectionString" createdInVersion="22.2.5.0" generateJsonSerializationContractResolver="false" generateServiceCollectionExtensions="false" lastModifiedInVersion="22.2.5.0" name="Database" xmlns="http://schemas.microsoft.com/dsltools/ORMDataModel">
   <comments>
     <dataBaseObjectModelHasComments Id="6bc9b4a3-1461-42c7-8609-154d4562a75c">
       <comment Id="d621e3d6-f855-4e46-a265-728df25fdb8b" text="The 'employees_pkey' index is ignored, because 'id' is a key" name="EmployeesComment">
@@ -15,6 +15,24 @@
         <subjects>
           <commentReferencesSubjects Id="8063de37-e68d-4e47-a43f-f366cd4887aa">
             <xpObjectMoniker Id="0f37205e-9d00-41c1-a638-5eb85e548082" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="9acc74b2-d56f-4df3-ada4-2b95c854505e">
+      <comment Id="2f2371b0-edaf-4c95-bb59-db868e52325a" text="The 'episode_scene_classes_pkey' index is ignored, because 'episode_scene_classes_id' is a key" name="EpisodeSceneClassesComment">
+        <subjects>
+          <commentReferencesSubjects Id="3d359502-f429-43d5-91af-3bedae1ddf85">
+            <xpObjectMoniker Id="ab28694b-492d-4201-885a-d4484b5b5258" />
+          </commentReferencesSubjects>
+        </subjects>
+      </comment>
+    </dataBaseObjectModelHasComments>
+    <dataBaseObjectModelHasComments Id="587dd8b0-6c15-4b51-ba55-96423c40a9a8">
+      <comment Id="2be2aca2-c98b-4bb2-b942-52c95c415b41" text="The 'episode_scene_pkey' index is ignored, because 'episode_scene_id' is a key" name="EpisodeSceneComment">
+        <subjects>
+          <commentReferencesSubjects Id="a6228b5f-c17c-423f-9ec5-8b5b96228335">
+            <xpObjectMoniker Id="f8869855-408c-48eb-bae0-373b055a7303" />
           </commentReferencesSubjects>
         </subjects>
       </comment>
@@ -73,6 +91,49 @@
           </generalXpObjectHasFields>
           <generalXpObjectHasFields Id="201de903-e14c-4f5b-8a84-1c9eaf82f240">
             <field Id="539928b4-0fb7-45ac-aa39-493e2b5b8cd3" name="Yearsofexperience" columnType="Int32" initialName="Yearsofexperience" persistent="yearsofexperience" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+        </fields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="eaa91bec-d831-4374-82b6-343224f42fce">
+      <xpObject Id="ab28694b-492d-4201-885a-d4484b5b5258" name="EpisodeSceneClasses" baseClass="XPLiteObject" userFileName="EpisodeSceneClasses" designerFileName="EpisodeSceneClasses.Designer" className="EpisodeSceneClasses" initialName="EpisodeSceneClasses" virtualBaseClass="XPLiteObject" persistent="episode_scene_classes" virtualName="EpisodeSceneClasses">
+        <fields>
+          <generalXpObjectHasFields Id="6d7ff959-dd36-452f-a426-89541a249168">
+            <field Id="6c193cad-e653-4a0b-a208-64c749092e40" name="EpisodeSceneClassesId" columnType="Int32" initialName="EpisodeSceneClassesId" key="true" persistent="episode_scene_classes_id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="508fda98-4b0c-431e-9345-83062fd00668">
+            <field Id="00151a1c-fed5-4d2c-8409-c384ce7ae00f" name="EpisodeSceneDetails" initialName="EpisodeSceneDetails" persistent="episode_scene_details" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+        </fields>
+        <saTargets>
+          <simpleAssociation Id="1467da3a-afe6-425b-b222-b6d6af36b6fc" sourceCollectionName="EpisodeScenes" name="EpisodeSceneReferencesEpisodeSceneClasses" targetFieldName="EpisodeSceneClassesId">
+            <xpObjectMoniker Id="f8869855-408c-48eb-bae0-373b055a7303" />
+          </simpleAssociation>
+        </saTargets>
+        <collectionFields>
+          <xpObjectHasCollectionFields Id="21d6683f-f13f-435f-93b3-505d351df0c6">
+            <collectionField Id="1f346dc6-f1e8-47b1-811d-97cbc240e811" name="EpisodeScenes" />
+          </xpObjectHasCollectionFields>
+        </collectionFields>
+      </xpObject>
+    </dataBaseObjectModelHasClasses>
+    <dataBaseObjectModelHasClasses Id="e04db3c1-4754-4b97-a81c-a85e45344945">
+      <xpObject Id="f8869855-408c-48eb-bae0-373b055a7303" name="EpisodeScene" baseClass="XPLiteObject" userFileName="EpisodeScene" designerFileName="EpisodeScene.Designer" className="EpisodeScene" initialName="EpisodeScene" virtualBaseClass="XPLiteObject" persistent="episode_scene" virtualName="EpisodeScene">
+        <fields>
+          <generalXpObjectHasFields Id="cf1f495c-4d11-4368-b0be-1aa00a1199d8">
+            <field Id="00878120-0761-4bff-8ab9-d21bdff63206" name="EpisodeSceneId" columnType="Int32" initialName="EpisodeSceneId" key="true" persistent="episode_scene_id" virtualColumnType="Int32" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="cd93929d-d73d-44a1-a02a-1a8e94d64fb2">
+            <field Id="a6b4a874-2c39-4313-ab55-14391ebd2baa" name="SceneName" initialName="SceneName" persistent="scene_name" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="0035822d-ecb3-4f6d-b65a-60829b848586">
+            <field Id="4200954b-f878-48d1-ac9a-e3c3f3180052" name="EpisodeName" initialName="EpisodeName" persistent="episode_name" virtualColumnType="String" delayedUpdateModifiedOnly="false" size="255" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="369d272e-6331-46ad-b8f9-9296b6b77296">
+            <field Id="a03d89c7-0da8-46bd-9cfd-1b0ecd0ffdf5" name="SceneDate" columnType="DateTime" initialName="SceneDate" persistent="scene_date" virtualColumnType="DateTime" delayedUpdateModifiedOnly="false" />
+          </generalXpObjectHasFields>
+          <generalXpObjectHasFields Id="82616f0a-0346-4c73-b107-388dfdaa211f">
+            <field Id="0b318cb2-e390-4cad-af7a-f0eb36848dac" name="EpisodeSceneClassesId" columnType="Int32" initialName="EpisodeSceneClassesId" persistent="episode_scene_classes_id" virtualColumnType="EpisodeSceneClasses" logicalType="EpisodeSceneClasses" delayedUpdateModifiedOnly="false" />
           </generalXpObjectHasFields>
         </fields>
       </xpObject>

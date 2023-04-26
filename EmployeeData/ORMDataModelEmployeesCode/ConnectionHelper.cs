@@ -19,7 +19,9 @@ namespace EmployeeData.Database
     {
         static Type[] persistentTypes = new Type[] {
             typeof(Employees),
-            typeof(Softwaredeveloper)
+            typeof(Softwaredeveloper),
+            typeof(EpisodeSceneClasses),
+            typeof(EpisodeScene)
         };
         public static Type[] GetPersistentTypes()
         {

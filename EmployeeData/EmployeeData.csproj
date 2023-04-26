@@ -288,10 +288,19 @@
     <Compile Include="Models\Category.cs" />
     <Compile Include="Models\Product.cs" />
     <Compile Include="Models\ProductContext.cs" />
+    <Compile Include="Models\ProductDatabaseInitializer.cs" />
     <Compile Include="ORMDataModelEmployeesCode\ConnectionHelper.cs" />
     <Compile Include="ORMDataModelEmployeesCode\Employees.cs" />
     <Compile Include="ORMDataModelEmployeesCode\Employees.Designer.cs">
       <DependentUpon>Employees.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModelEmployeesCode\EpisodeScene.cs" />
+    <Compile Include="ORMDataModelEmployeesCode\EpisodeScene.Designer.cs">
+      <DependentUpon>EpisodeScene.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ORMDataModelEmployeesCode\EpisodeSceneClasses.cs" />
+    <Compile Include="ORMDataModelEmployeesCode\EpisodeSceneClasses.Designer.cs">
+      <DependentUpon>EpisodeSceneClasses.cs</DependentUpon>
     </Compile>
     <Compile Include="ORMDataModelEmployeesCode\Softwaredeveloper.cs" />
     <Compile Include="ORMDataModelEmployeesCode\Softwaredeveloper.Designer.cs">
