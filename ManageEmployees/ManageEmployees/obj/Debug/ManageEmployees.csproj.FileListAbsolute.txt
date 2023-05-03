@@ -126,3 +126,5 @@ C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\
 C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Numerics.Vectors.xml
 C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Text.Encodings.Web.dll
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Text.Encodings.Web.xml
