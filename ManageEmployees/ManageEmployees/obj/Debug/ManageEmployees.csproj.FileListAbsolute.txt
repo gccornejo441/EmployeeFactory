@@ -128,3 +128,8 @@ C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\
 C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Threading.Tasks.Extensions.xml
 C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Text.Encodings.Web.dll
 C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\System.Text.Encodings.Web.xml
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\roslyn\Microsoft.Managed.Core.CurrentVersions.targets
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\roslyn\System.Buffers.dll
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\roslyn\System.Memory.dll
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\gcorn\source\repos\EmployeeFactory\ManageEmployees\ManageEmployees\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
